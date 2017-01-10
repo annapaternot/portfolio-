@@ -6,6 +6,12 @@ body {
 p {
 	font-family: "Open Sans";
 }
+
+.portfolio_images {
+	height: 100px;
+}
+
+
 #my_name {
 	text-align: center;
 	color: white;
