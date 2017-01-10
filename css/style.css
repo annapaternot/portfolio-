@@ -1,4 +1,17 @@
 body {
 	background-color: #262626;
+	color: white;
+}
 
+p {
+	font-family: "Open Sans";
+}
+#my_name {
+	text-align: center;
+	color: white;
+}
+#Main_Photo {
+	display: block;
+	margin: 0 auto;
+	width: 200px;
 }
